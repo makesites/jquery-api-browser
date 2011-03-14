@@ -1,0 +1,7 @@
+//
+//  PhoneGap.xcconfig
+//  jQuery API Browser
+//
+
+// Override this to use your project specific PHONEGAPLIB
+PHONEGAPLIB = $(PHONEGAPLIB)
